@@ -1,13 +1,8 @@
 
 #your web-api should be like this
-Method	Urls	Actions
-POST    /api/tutorials	create a new Tutorial
-GET	    /api/tutorials	retrieve all of the Tutorials
-GET	    /api/tutorials/:id	retrieve a Tutorial by :id
-PUT	    /api/tutorials/:id	update a Tutorial by :id
-DELETE	/api/tutorials/:id	delete a Tutorial by :id
-DELETE	/api/tutorials	delete all Tutorials
-GET	    /api/tutorials?title=[keyword]	find all Tutorials which title contains keyword
+
+![image](https://user-images.githubusercontent.com/63457931/114170241-89880100-992a-11eb-9d62-047c3e83d8e6.png)
+
 
 #do not forget how to install react example with these steps
 Open cmd at the folder you want to save Project folder, run command:
